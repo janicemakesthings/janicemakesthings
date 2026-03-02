@@ -10,7 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  Based in the little red dot 🔴
 * ✉️  You can contact me at [janicemakesthings@gmail.com](mailto:janicemakesthings@gmail.com)
 * 🧠  Currently learning Figma and UX magic
-* ⚡  I did this because [likendev](https://github.com/likendev) asked me to
 
 ### Skills
 
